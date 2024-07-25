@@ -1,0 +1,71 @@
+\documentclass{beamer}
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{subcaption}
+
+
+% other packages
+\usepackage{latexsym,amsmath,xcolor,multicol,booktabs,calligra}
+\usepackage{graphicx,pstricks,listings,stackengine}
+
+% dummy text; remove it when working on this template
+\usepackage{lipsum}
+
+
+\author{iGem IISc-Software \\ Ayush Raina, Rahul Chavan, Trishna Singh}
+\title{\textcolor{yellow}{I}ntegrated \textcolor{yellow}{M}odelling of \textcolor{yellow}{PRO}TEIN Complexes \textcolor{yellow}{VI}A \textcolor{yellow}{S}ingle Shot Registration using \textcolor{yellow}{D}REAM}
+\subtitle{(\textcolor{yellow}{IMPROVISeD})}
+
+% Include 2 images in a row here in title page
+\titlegraphic{\includegraphics[width=0.5\textwidth]{images/kotak.png} \hspace{1cm} \includegraphics[width=0.25\textwidth]{images/igem.png}}
+    
+\date{July 27,2024}
+\usepackage{Ritsumeikan} 
+
+
+% defs
+\def\cmd#1{\texttt{\color{red}\footnotesize $\backslash$#1}}
+\def\env#1{\texttt{\color{blue}\footnotesize #1}}
+\definecolor{deepblue}{rgb}{0,0,0.5}
+\definecolor{deepred}{RGB}{153,0,0}
+\definecolor{deepgreen}{rgb}{0,0.5,0}
+\definecolor{halfgray}{gray}{0.55}
+
+\lstset{
+    basicstyle=\ttfamily\small,
+    keywordstyle=\bfseries\color{deepblue},
+    emphstyle=\ttfamily\color{deepred},    % Custom highlighting style
+    stringstyle=\color{deepgreen},
+    numbers=left,
+    numberstyle=\small\color{halfgray},
+    rulesepcolor=\color{red!20!green!20!blue!20},
+    frame=shadowbox,
+}
+
+\begin{document}
+
+\begin{frame}
+    \titlepage
+\end{frame}
+
+\include{intro.tex}
+\include{dream.tex}
+\include{IMP.tex}
+\include{hp.tex}
+\include{summary.tex}
+
+% thank you slide
+\begin{frame}{Thank You!}
+    \begin{center}
+        \Huge Thank You!
+    \end{center}
+    Here are some references:
+    \begin{enumerate}
+        \item DREAMweb, \url{https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.202300379?af=R}
+        \item Improved NMR-data-compliant protein structure modeling captures context-dependent variations and expands the scope of functional inference, \url{https://onlinelibrary.wiley.com/doi/full/10.1002/prot.26439?_gl=1*1f1toyi*_gcl_au*MjcyNjE4Nzc0LjE3MTg5MDgxOTg.}
+    \end{enumerate}
+\end{frame}
+
+\end{document}
+
