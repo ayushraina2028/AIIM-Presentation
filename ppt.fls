@@ -1685,6 +1685,16 @@ INPUT ./hp.tex
 INPUT hp.tex
 INPUT ./hp.tex
 INPUT hp.tex
+INPUT ./images/shruthi.png
+INPUT ./images/shruthi.png
+INPUT images/shruthi.png
+INPUT ./images/shruthi.png
+INPUT ./images/shruthi.png
+INPUT ./images/debnath.png
+INPUT ./images/debnath.png
+INPUT images/debnath.png
+INPUT ./images/debnath.png
+INPUT ./images/debnath.png
 INPUT ./summary.tex
 OUTPUT summary.aux
 INPUT ./summary.tex
