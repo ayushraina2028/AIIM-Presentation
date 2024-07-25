@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  25 JUL 2024 21:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  25 JUL 2024 21:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1017,17 +1017,13 @@ Package caption Info: End \AtBeginDocument code.
 File: images/kotak.png Graphic file (type png)
 <use images/kotak.png>
 Package pdftex.def Info: images/kotak.png  used on input line 52.
-(pdftex.def)             Requested size: 153.64493pt x 28.40921pt.
+(pdftex.def)             Requested size: 184.3758pt x 34.09143pt.
 <images/igem.png, id=72, 301.125pt x 190.7125pt>
 File: images/igem.png Graphic file (type png)
 <use images/igem.png>
 Package pdftex.def Info: images/igem.png  used on input line 52.
 (pdftex.def)             Requested size: 76.82246pt x 48.65286pt.
-
-Overfull \vbox (9.46902pt too high) detected at line 52
- []
-
-[1
+ [1
 Non-PDF special ignored!
 <special> header=pstricks.pro
 Non-PDF special ignored!
@@ -1054,7 +1050,7 @@ Non-PDF special ignored!
 
 
 ]
-<images/imp.png, id=220, 876.27374pt x 485.815pt>
+<images/imp.png, id=219, 876.27374pt x 485.815pt>
 File: images/imp.png Graphic file (type png)
 <use images/imp.png>
 Package pdftex.def Info: images/imp.png  used on input line 17.
@@ -1062,17 +1058,17 @@ Package pdftex.def Info: images/imp.png  used on input line 17.
  [3
 
  <./images/imp.png>]
-<images/one.png, id=280, 227.85126pt x 281.05pt>
+<images/one.png, id=279, 227.85126pt x 281.05pt>
 File: images/one.png Graphic file (type png)
 <use images/one.png>
 Package pdftex.def Info: images/one.png  used on input line 45.
 (pdftex.def)             Requested size: 92.1879pt x 113.71312pt.
-<images/two.png, id=281, 213.79875pt x 273.02pt>
+<images/two.png, id=280, 213.79875pt x 273.02pt>
 File: images/two.png Graphic file (type png)
 <use images/two.png>
 Package pdftex.def Info: images/two.png  used on input line 45.
 (pdftex.def)             Requested size: 92.1879pt x 117.72125pt.
-<images/three.png, id=282, 226.8475pt x 268.00125pt>
+<images/three.png, id=281, 226.8475pt x 268.00125pt>
 File: images/three.png Graphic file (type png)
 <use images/three.png>
 Package pdftex.def Info: images/three.png  used on input line 45.
@@ -1082,7 +1078,7 @@ Package pdftex.def Info: images/three.png  used on input line 45.
  <./images/one.png> <./images/two.png> <./images/three.png>] [5
 
 ]
-<images/monster.png, id=405, 228.855pt x 190.7125pt>
+<images/monster.png, id=404, 228.855pt x 190.7125pt>
 File: images/monster.png Graphic file (type png)
 <use images/monster.png>
 Package pdftex.def Info: images/monster.png  used on input line 81.
@@ -1096,7 +1092,7 @@ l.81 \end{frame}
                    \relax 
 l.81 \end{frame}
                 
-<images/rosseta.png, id=406, 360.34625pt x 101.37875pt>
+<images/rosseta.png, id=405, 360.34625pt x 101.37875pt>
 File: images/rosseta.png Graphic file (type png)
 <use images/rosseta.png>
 Package pdftex.def Info: images/rosseta.png  used on input line 81.
@@ -1110,7 +1106,7 @@ l.81 \end{frame}
                    \relax 
 l.81 \end{frame}
                 
-<images/haddock.png, id=407, 748.7975pt x 130.4875pt>
+<images/haddock.png, id=406, 748.7975pt x 130.4875pt>
 File: images/haddock.png Graphic file (type png)
 <use images/haddock.png>
 Package pdftex.def Info: images/haddock.png  used on input line 81.
@@ -1126,7 +1122,7 @@ l.81 \end{frame}
                  [6
 
  <./images/monster.png> <./images/rosseta.png> <./images/haddock.png>]
-<images/table.png, id=467, 739.76375pt x 620.3175pt>
+<images/table.png, id=466, 739.76375pt x 620.3175pt>
 File: images/table.png Graphic file (type png)
 <use images/table.png>
 Package pdftex.def Info: images/table.png  used on input line 91.
@@ -1138,7 +1134,7 @@ l.91 \end{frame}
                  [7
 
  <./images/table.png>]
-<images/dream.png, id=526, 735.74875pt x 507.8975pt>
+<images/dream.png, id=525, 735.74875pt x 507.8975pt>
 File: images/dream.png Graphic file (type png)
 <use images/dream.png>
 Package pdftex.def Info: images/dream.png  used on input line 105.
@@ -1162,12 +1158,12 @@ Overfull \vbox (2.66945pt too high) detected at line 105
 
 
 ]
-<images/single.png, id=640, 290.08376pt x 190.7125pt>
+<images/single.png, id=639, 290.08376pt x 190.7125pt>
 File: images/single.png Graphic file (type png)
 <use images/single.png>
 Package pdftex.def Info: images/single.png  used on input line 26.
 (pdftex.def)             Requested size: 107.55333pt x 70.71092pt.
-<images/separate.png, id=641, 288.07625pt x 196.735pt>
+<images/separate.png, id=640, 288.07625pt x 196.735pt>
 File: images/separate.png Graphic file (type png)
 <use images/separate.png>
 Package pdftex.def Info: images/separate.png  used on input line 26.
@@ -1213,7 +1209,7 @@ Overfull \vbox (6.81732pt too high) detected at line 26
 [12
 
 ]
-<images/register.png, id=812, 865.2325pt x 646.415pt>
+<images/register.png, id=811, 865.2325pt x 646.415pt>
 File: images/register.png Graphic file (type png)
 <use images/register.png>
 Package pdftex.def Info: images/register.png  used on input line 44.
@@ -1248,12 +1244,12 @@ Package pdftex.def Info: images/register.png  used on input line 44.
  [14
 
 ]
-<images/gap1.png, id=930, 189.70876pt x 191.71625pt>
+<images/gap1.png, id=929, 189.70876pt x 191.71625pt>
 File: images/gap1.png Graphic file (type png)
 <use images/gap1.png>
 Package pdftex.def Info: images/gap1.png  used on input line 60.
 (pdftex.def)             Requested size: 122.91406pt x 124.21623pt.
-<images/gap2.png, id=931, 217.81375pt x 178.6675pt>
+<images/gap2.png, id=930, 217.81375pt x 178.6675pt>
 File: images/gap2.png Graphic file (type png)
 <use images/gap2.png>
 Package pdftex.def Info: images/gap2.png  used on input line 60.
@@ -1282,7 +1278,7 @@ Package pdftex.def Info: images/gap2.png  used on input line 60.
 ] [19
 
 ]
-<images/seq.png, id=1217, 1024.82875pt x 504.88625pt>
+<images/seq.png, id=1216, 1024.82875pt x 504.88625pt>
 File: images/seq.png Graphic file (type png)
 <use images/seq.png>
 Package pdftex.def Info: images/seq.png  used on input line 79.
@@ -1306,7 +1302,7 @@ l.79 \end{frame}
 ] [23
 
 ]
-<images/local.png, id=1442, 1606.0pt x 905.3825pt>
+<images/local.png, id=1441, 1606.0pt x 905.3825pt>
 File: images/local.png Graphic file (type png)
 <use images/local.png>
 Package pdftex.def Info: images/local.png  used on input line 29.
@@ -1318,7 +1314,7 @@ l.29 \end{frame}
                  [24
 
  <./images/local.png>]
-<images/toy1.png, id=1500, 709.65125pt x 601.24625pt>
+<images/toy1.png, id=1499, 709.65125pt x 601.24625pt>
 File: images/toy1.png Graphic file (type png)
 <use images/toy1.png>
 Package pdftex.def Info: images/toy1.png  used on input line 38.
@@ -1334,17 +1330,17 @@ Overfull \vbox (6.09071pt too high) detected at line 38
 [25
 
  <./images/toy1.png>]
-<images/A.png, id=1559, 310.15875pt x 242.9075pt>
+<images/A.png, id=1558, 310.15875pt x 242.9075pt>
 File: images/A.png Graphic file (type png)
 <use images/A.png>
 Package pdftex.def Info: images/A.png  used on input line 51.
 (pdftex.def)             Requested size: 92.1879pt x 72.19823pt.
-<images/S.png, id=1560, 391.4625pt x 205.76875pt>
+<images/S.png, id=1559, 391.4625pt x 205.76875pt>
 File: images/S.png Graphic file (type png)
 <use images/S.png>
 Package pdftex.def Info: images/S.png  used on input line 51.
 (pdftex.def)             Requested size: 92.1879pt x 48.45613pt.
-<images/B.png, id=1561, 159.59625pt x 173.64874pt>
+<images/B.png, id=1560, 159.59625pt x 173.64874pt>
 File: images/B.png Graphic file (type png)
 <use images/B.png>
 Package pdftex.def Info: images/B.png  used on input line 51.
@@ -1371,7 +1367,7 @@ Package pdftex.def Info: images/B.png  used on input line 51.
  [27
 
 ]
-<images/final.png, id=1677, 1089.06876pt x 825.0825pt>
+<images/final.png, id=1676, 1089.06876pt x 825.0825pt>
 File: images/final.png Graphic file (type png)
 <use images/final.png>
 Package pdftex.def Info: images/final.png  used on input line 60.
@@ -1399,7 +1395,7 @@ l.60 \end{frame}
 ] [33
 
 ]
-<images/shruthi.png, id=2013, 233.87375pt x 272.01625pt>
+<images/shruthi.png, id=2012, 233.87375pt x 272.01625pt>
 File: images/shruthi.png Graphic file (type png)
 <use images/shruthi.png>
 Package pdftex.def Info: images/shruthi.png  used on input line 53.
@@ -1413,7 +1409,7 @@ l.53 \end{frame}
                    \relax 
 l.53 \end{frame}
                 
-<images/debnath.png, id=2014, 220.825pt x 239.89626pt>
+<images/debnath.png, id=2013, 220.825pt x 239.89626pt>
 File: images/debnath.png Graphic file (type png)
 <use images/debnath.png>
 Package pdftex.def Info: images/debnath.png  used on input line 53.
@@ -1462,18 +1458,18 @@ Package rerunfilecheck Info: File `ppt.out' has not changed.
 (rerunfilecheck)             Checksum: 048C44E788EE229A54CFE87B070179A1;400.
  ) 
 Here is how much of TeX's memory you used:
- 28063 strings out of 478287
- 532398 string characters out of 5849289
- 908577 words of memory out of 5000000
- 45539 multiletter control sequences out of 15000+600000
- 484503 words of font info for 65 fonts, out of 8000000 for 9000
+ 28061 strings out of 478287
+ 532376 string characters out of 5849289
+ 907555 words of memory out of 5000000
+ 45538 multiletter control sequences out of 15000+600000
+ 483728 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,20n,122p,441b,862s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss2488.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0900.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1200.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0800.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx0600.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1095.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1095.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0600.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ppt.pdf (36 pages, 3616608 bytes).
+ </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss2488.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0900.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1200.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0800.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1095.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1095.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0600.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on ppt.pdf (36 pages, 3610506 bytes).
 PDF statistics:
- 2653 PDF objects out of 2984 (max. 8388607)
- 2105 compressed objects within 22 object streams
+ 2624 PDF objects out of 2984 (max. 8388607)
+ 2101 compressed objects within 22 object streams
  85 named destinations out of 1000 (max. 500000)
  230 words of extra memory for PDF output out of 10000 (max. 10000000)
 

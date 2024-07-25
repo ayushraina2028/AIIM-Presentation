@@ -1447,10 +1447,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss0600.tfm
 INPUT ./ppt.nav
 INPUT ppt.nav
 INPUT ppt.nav
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsx0600.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss1440.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsx1095.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss0800.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsx1095.tfm
 INPUT ./images/kotak.png
 INPUT ./images/kotak.png
 INPUT images/kotak.png
@@ -1738,7 +1737,6 @@ INPUT /home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss09
 INPUT /home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk
 INPUT /home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1200.600pk
 INPUT /home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0800.600pk
-INPUT /home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx0600.600pk
 INPUT /home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1095.600pk
 INPUT /home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1095.600pk
 INPUT /home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk
