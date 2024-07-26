@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  25 JUL 2024 21:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  26 JUL 2024 23:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1013,12 +1013,12 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count397
  (./ppt.nav)
-<images/kotak.png, id=70, 678.535pt x 125.46875pt>
+<images/kotak.png, id=72, 678.535pt x 125.46875pt>
 File: images/kotak.png Graphic file (type png)
 <use images/kotak.png>
 Package pdftex.def Info: images/kotak.png  used on input line 52.
 (pdftex.def)             Requested size: 184.3758pt x 34.09143pt.
-<images/igem.png, id=72, 301.125pt x 190.7125pt>
+<images/igem.png, id=74, 301.125pt x 190.7125pt>
 File: images/igem.png Graphic file (type png)
 <use images/igem.png>
 Package pdftex.def Info: images/igem.png  used on input line 52.
@@ -1050,120 +1050,132 @@ Non-PDF special ignored!
 
 
 ]
-<images/imp.png, id=219, 876.27374pt x 485.815pt>
-File: images/imp.png Graphic file (type png)
-<use images/imp.png>
-Package pdftex.def Info: images/imp.png  used on input line 17.
-(pdftex.def)             Requested size: 307.28987pt x 170.36397pt.
+<images/bioinf.png, id=227, 1151.05031pt x 488.57532pt>
+File: images/bioinf.png Graphic file (type png)
+<use images/bioinf.png>
+Package pdftex.def Info: images/bioinf.png  used on input line 21.
+(pdftex.def)             Requested size: 276.559pt x 117.3872pt.
  [3
 
- <./images/imp.png>]
-<images/one.png, id=279, 227.85126pt x 281.05pt>
-File: images/one.png Graphic file (type png)
-<use images/one.png>
-Package pdftex.def Info: images/one.png  used on input line 45.
-(pdftex.def)             Requested size: 92.1879pt x 113.71312pt.
-<images/two.png, id=280, 213.79875pt x 273.02pt>
-File: images/two.png Graphic file (type png)
-<use images/two.png>
-Package pdftex.def Info: images/two.png  used on input line 45.
-(pdftex.def)             Requested size: 92.1879pt x 117.72125pt.
-<images/three.png, id=281, 226.8475pt x 268.00125pt>
-File: images/three.png Graphic file (type png)
-<use images/three.png>
-Package pdftex.def Info: images/three.png  used on input line 45.
-(pdftex.def)             Requested size: 92.1879pt x 108.91203pt.
+ <./images/bioinf.png>]
+<images/imp.png, id=287, 876.27374pt x 485.815pt>
+File: images/imp.png Graphic file (type png)
+<use images/imp.png>
+Package pdftex.def Info: images/imp.png  used on input line 30.
+(pdftex.def)             Requested size: 307.28987pt x 170.36397pt.
  [4
 
- <./images/one.png> <./images/two.png> <./images/three.png>] [5
+ <./images/imp.png>]
+<images/one.png, id=348, 227.85126pt x 281.05pt>
+File: images/one.png Graphic file (type png)
+<use images/one.png>
+Package pdftex.def Info: images/one.png  used on input line 58.
+(pdftex.def)             Requested size: 92.1879pt x 113.71312pt.
+<images/two.png, id=349, 213.79875pt x 273.02pt>
+File: images/two.png Graphic file (type png)
+<use images/two.png>
+Package pdftex.def Info: images/two.png  used on input line 58.
+(pdftex.def)             Requested size: 92.1879pt x 117.72125pt.
+<images/three.png, id=350, 226.8475pt x 268.00125pt>
+File: images/three.png Graphic file (type png)
+<use images/three.png>
+Package pdftex.def Info: images/three.png  used on input line 58.
+(pdftex.def)             Requested size: 92.1879pt x 108.91203pt.
+ [5
+
+ <./images/one.png> <./images/two.png> <./images/three.png>] [6
 
 ]
-<images/monster.png, id=404, 228.855pt x 190.7125pt>
+<images/monster.png, id=477, 228.855pt x 190.7125pt>
 File: images/monster.png Graphic file (type png)
 <use images/monster.png>
-Package pdftex.def Info: images/monster.png  used on input line 81.
+Package pdftex.def Info: images/monster.png  used on input line 94.
 (pdftex.def)             Requested size: 92.1879pt x 76.82199pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:image1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81 \end{frame}
+l.94 \end{frame}
                 pdfTeX warning (ext4): destination with the same identifier (name{sub@fig:image1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81 \end{frame}
+l.94 \end{frame}
                 
-<images/rosseta.png, id=405, 360.34625pt x 101.37875pt>
+<images/rosseta.png, id=478, 360.34625pt x 101.37875pt>
 File: images/rosseta.png Graphic file (type png)
 <use images/rosseta.png>
-Package pdftex.def Info: images/rosseta.png  used on input line 81.
+Package pdftex.def Info: images/rosseta.png  used on input line 94.
 (pdftex.def)             Requested size: 92.1879pt x 25.93553pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:image2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81 \end{frame}
+l.94 \end{frame}
                 pdfTeX warning (ext4): destination with the same identifier (name{sub@fig:image2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81 \end{frame}
+l.94 \end{frame}
                 
-<images/haddock.png, id=406, 748.7975pt x 130.4875pt>
+<images/haddock.png, id=479, 748.7975pt x 130.4875pt>
 File: images/haddock.png Graphic file (type png)
 <use images/haddock.png>
-Package pdftex.def Info: images/haddock.png  used on input line 81.
+Package pdftex.def Info: images/haddock.png  used on input line 94.
 (pdftex.def)             Requested size: 215.10196pt x 37.484pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:image2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81 \end{frame}
+l.94 \end{frame}
                 pdfTeX warning (ext4): destination with the same identifier (name{sub@fig:image2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81 \end{frame}
-                 [6
-
- <./images/monster.png> <./images/rosseta.png> <./images/haddock.png>]
-<images/table.png, id=466, 739.76375pt x 620.3175pt>
-File: images/table.png Graphic file (type png)
-<use images/table.png>
-Package pdftex.def Info: images/table.png  used on input line 91.
-(pdftex.def)             Requested size: 245.83282pt x 206.13466pt.
-pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.91 \end{frame}
+l.94 \end{frame}
                  [7
 
- <./images/table.png>]
-<images/dream.png, id=525, 735.74875pt x 507.8975pt>
-File: images/dream.png Graphic file (type png)
-<use images/dream.png>
-Package pdftex.def Info: images/dream.png  used on input line 105.
-(pdftex.def)             Requested size: 215.10196pt x 148.48773pt.
+ <./images/monster.png> <./images/rosseta.png> <./images/haddock.png>]
+<images/table.png, id=542, 739.76375pt x 620.3175pt>
+File: images/table.png Graphic file (type png)
+<use images/table.png>
+Package pdftex.def Info: images/table.png  used on input line 105.
+(pdftex.def)             Requested size: 245.83282pt x 206.13466pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.105 \end{frame}
                  
-Overfull \vbox (2.66945pt too high) detected at line 105
+Overfull \vbox (7.61003pt too high) detected at line 105
  []
 
 [8
 
+ <./images/table.png>]
+<images/dream.png, id=601, 735.74875pt x 507.8975pt>
+File: images/dream.png Graphic file (type png)
+<use images/dream.png>
+Package pdftex.def Info: images/dream.png  used on input line 119.
+(pdftex.def)             Requested size: 215.10196pt x 148.48773pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.119 \end{frame}
+                 
+Overfull \vbox (2.66945pt too high) detected at line 119
+ []
+
+[9
+
  <./images/dream.png>])
 \openout2 = `dream.aux'.
 
- (./dream.tex [9
+ (./dream.tex [10
 
 
 
 
 ]
-<images/single.png, id=639, 290.08376pt x 190.7125pt>
+<images/single.png, id=719, 290.08376pt x 190.7125pt>
 File: images/single.png Graphic file (type png)
 <use images/single.png>
 Package pdftex.def Info: images/single.png  used on input line 26.
 (pdftex.def)             Requested size: 107.55333pt x 70.71092pt.
-<images/separate.png, id=640, 288.07625pt x 196.735pt>
+<images/separate.png, id=720, 288.07625pt x 196.735pt>
 File: images/separate.png Graphic file (type png)
 <use images/separate.png>
 Package pdftex.def Info: images/separate.png  used on input line 26.
@@ -1176,24 +1188,9 @@ l.26 \end{frame}
 Overfull \vbox (6.81732pt too high) detected at line 26
  []
 
-[10
-
- <./images/single.png> <./images/separate.png>]
-File: images/single.png Graphic file (type png)
-<use images/single.png>
-Package pdftex.def Info: images/single.png  used on input line 26.
-(pdftex.def)             Requested size: 107.55333pt x 70.71092pt.
-File: images/separate.png Graphic file (type png)
-<use images/separate.png>
-Package pdftex.def Info: images/separate.png  used on input line 26.
-(pdftex.def)             Requested size: 107.55333pt x 73.45122pt.
-
-Overfull \vbox (6.81732pt too high) detected at line 26
- []
-
 [11
 
-]
+ <./images/single.png> <./images/separate.png>]
 File: images/single.png Graphic file (type png)
 <use images/single.png>
 Package pdftex.def Info: images/single.png  used on input line 26.
@@ -1209,7 +1206,22 @@ Overfull \vbox (6.81732pt too high) detected at line 26
 [12
 
 ]
-<images/register.png, id=811, 865.2325pt x 646.415pt>
+File: images/single.png Graphic file (type png)
+<use images/single.png>
+Package pdftex.def Info: images/single.png  used on input line 26.
+(pdftex.def)             Requested size: 107.55333pt x 70.71092pt.
+File: images/separate.png Graphic file (type png)
+<use images/separate.png>
+Package pdftex.def Info: images/separate.png  used on input line 26.
+(pdftex.def)             Requested size: 107.55333pt x 73.45122pt.
+
+Overfull \vbox (6.81732pt too high) detected at line 26
+ []
+
+[13
+
+]
+<images/register.png, id=899, 865.2325pt x 646.415pt>
 File: images/register.png Graphic file (type png)
 <use images/register.png>
 Package pdftex.def Info: images/register.png  used on input line 44.
@@ -1234,22 +1246,22 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 44.
  (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-) [13
+) [14
 
  <./images/register.png>]
 File: images/register.png Graphic file (type png)
 <use images/register.png>
 Package pdftex.def Info: images/register.png  used on input line 44.
 (pdftex.def)             Requested size: 138.2795pt x 103.30028pt.
- [14
+ [15
 
 ]
-<images/gap1.png, id=929, 189.70876pt x 191.71625pt>
+<images/gap1.png, id=1020, 189.70876pt x 191.71625pt>
 File: images/gap1.png Graphic file (type png)
 <use images/gap1.png>
 Package pdftex.def Info: images/gap1.png  used on input line 60.
 (pdftex.def)             Requested size: 122.91406pt x 124.21623pt.
-<images/gap2.png, id=930, 217.81375pt x 178.6675pt>
+<images/gap2.png, id=1021, 217.81375pt x 178.6675pt>
 File: images/gap2.png Graphic file (type png)
 <use images/gap2.png>
 Package pdftex.def Info: images/gap2.png  used on input line 60.
@@ -1258,7 +1270,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label})
 <to be read again> 
                    \relax 
 l.60 \end{frame}
-                 [15
+                 [16
 
  <./images/gap1.png> <./images/gap2.png>]
 File: images/gap1.png Graphic file (type png)
@@ -1269,16 +1281,16 @@ File: images/gap2.png Graphic file (type png)
 <use images/gap2.png>
 Package pdftex.def Info: images/gap2.png  used on input line 60.
 (pdftex.def)             Requested size: 122.91406pt x 100.8219pt.
- [16
-
-] [17
+ [17
 
 ] [18
 
 ] [19
 
+] [20
+
 ]
-<images/seq.png, id=1216, 1024.82875pt x 504.88625pt>
+<images/seq.png, id=1317, 1024.82875pt x 504.88625pt>
 File: images/seq.png Graphic file (type png)
 <use images/seq.png>
 Package pdftex.def Info: images/seq.png  used on input line 79.
@@ -1287,22 +1299,22 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label})
 <to be read again> 
                    \relax 
 l.79 \end{frame}
-                 [20
+                 [21
 
  <./images/seq.png>])
 \openout2 = `IMP.aux'.
 
- (./IMP.tex [21
+ (./IMP.tex [22
 
 
 
-
-] [22
 
 ] [23
 
+] [24
+
 ]
-<images/local.png, id=1441, 1606.0pt x 905.3825pt>
+<images/local.png, id=1550, 1606.0pt x 905.3825pt>
 File: images/local.png Graphic file (type png)
 <use images/local.png>
 Package pdftex.def Info: images/local.png  used on input line 29.
@@ -1311,10 +1323,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label})
 <to be read again> 
                    \relax 
 l.29 \end{frame}
-                 [24
+                 [25
 
  <./images/local.png>]
-<images/toy1.png, id=1499, 709.65125pt x 601.24625pt>
+<images/toy1.png, id=1611, 709.65125pt x 601.24625pt>
 File: images/toy1.png Graphic file (type png)
 <use images/toy1.png>
 Package pdftex.def Info: images/toy1.png  used on input line 38.
@@ -1327,20 +1339,20 @@ l.38 \end{frame}
 Overfull \vbox (6.09071pt too high) detected at line 38
  []
 
-[25
+[26
 
  <./images/toy1.png>]
-<images/A.png, id=1558, 310.15875pt x 242.9075pt>
+<images/A.png, id=1671, 310.15875pt x 242.9075pt>
 File: images/A.png Graphic file (type png)
 <use images/A.png>
 Package pdftex.def Info: images/A.png  used on input line 51.
 (pdftex.def)             Requested size: 92.1879pt x 72.19823pt.
-<images/S.png, id=1559, 391.4625pt x 205.76875pt>
+<images/S.png, id=1672, 391.4625pt x 205.76875pt>
 File: images/S.png Graphic file (type png)
 <use images/S.png>
 Package pdftex.def Info: images/S.png  used on input line 51.
 (pdftex.def)             Requested size: 92.1879pt x 48.45613pt.
-<images/B.png, id=1560, 159.59625pt x 173.64874pt>
+<images/B.png, id=1673, 159.59625pt x 173.64874pt>
 File: images/B.png Graphic file (type png)
 <use images/B.png>
 Package pdftex.def Info: images/B.png  used on input line 51.
@@ -1349,7 +1361,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label})
 <to be read again> 
                    \relax 
 l.51 \end{frame}
-                 [26
+                 [27
 
  <./images/A.png> <./images/S.png> <./images/B.png>]
 File: images/A.png Graphic file (type png)
@@ -1364,10 +1376,10 @@ File: images/B.png Graphic file (type png)
 <use images/B.png>
 Package pdftex.def Info: images/B.png  used on input line 51.
 (pdftex.def)             Requested size: 92.1879pt x 100.30563pt.
- [27
+ [28
 
 ]
-<images/final.png, id=1676, 1089.06876pt x 825.0825pt>
+<images/final.png, id=1793, 1089.06876pt x 825.0825pt>
 File: images/final.png Graphic file (type png)
 <use images/final.png>
 Package pdftex.def Info: images/final.png  used on input line 60.
@@ -1376,26 +1388,26 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label})
 <to be read again> 
                    \relax 
 l.60 \end{frame}
-                 [28
+                 [29
 
- <./images/final.png>] [29
+ <./images/final.png>] [30
 
-] [30
+] [31
 
 ])
 \openout2 = `hp.aux'.
 
- (./hp.tex [31
+ (./hp.tex [32
 
 
 
-
-] [32
 
 ] [33
 
+] [34
+
 ]
-<images/shruthi.png, id=2012, 233.87375pt x 272.01625pt>
+<images/shruthi.png, id=2141, 233.87375pt x 272.01625pt>
 File: images/shruthi.png Graphic file (type png)
 <use images/shruthi.png>
 Package pdftex.def Info: images/shruthi.png  used on input line 53.
@@ -1409,7 +1421,7 @@ l.53 \end{frame}
                    \relax 
 l.53 \end{frame}
                 
-<images/debnath.png, id=2013, 220.825pt x 239.89626pt>
+<images/debnath.png, id=2142, 220.825pt x 239.89626pt>
 File: images/debnath.png Graphic file (type png)
 <use images/debnath.png>
 Package pdftex.def Info: images/debnath.png  used on input line 53.
@@ -1422,23 +1434,25 @@ l.53 \end{frame}
 <to be read again> 
                    \relax 
 l.53 \end{frame}
-                 [34
+                 [35
 
  <./images/shruthi.png> <./images/debnath.png>])
 \openout2 = `summary.aux'.
 
- (./summary.tex [35
+ (./summary.tex [36
 
 
 
 
 ])
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 70.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 71.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [36
+) [37
 
 
+
+] [38
 
 ]
 \tf@nav=\write6
@@ -1458,18 +1472,18 @@ Package rerunfilecheck Info: File `ppt.out' has not changed.
 (rerunfilecheck)             Checksum: 048C44E788EE229A54CFE87B070179A1;400.
  ) 
 Here is how much of TeX's memory you used:
- 28061 strings out of 478287
- 532376 string characters out of 5849289
- 907555 words of memory out of 5000000
- 45538 multiletter control sequences out of 15000+600000
+ 28076 strings out of 478287
+ 532589 string characters out of 5849289
+ 911676 words of memory out of 5000000
+ 45548 multiletter control sequences out of 15000+600000
  483728 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,20n,122p,441b,862s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss2488.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0900.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1200.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0800.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1095.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1095.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk> </home/ayushraina/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0600.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ppt.pdf (36 pages, 3610506 bytes).
+Output written on ppt.pdf (38 pages, 4146470 bytes).
 PDF statistics:
- 2624 PDF objects out of 2984 (max. 8388607)
- 2101 compressed objects within 22 object streams
- 85 named destinations out of 1000 (max. 500000)
- 230 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2831 PDF objects out of 2984 (max. 8388607)
+ 2297 compressed objects within 23 object streams
+ 89 named destinations out of 1000 (max. 500000)
+ 235 words of extra memory for PDF output out of 10000 (max. 10000000)
 
