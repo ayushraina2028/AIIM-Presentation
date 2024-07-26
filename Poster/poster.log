@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  27 JUL 2024 01:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  27 JUL 2024 02:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -535,42 +535,74 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--105
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
+<images/substructure.png, id=9, 242.9075pt x 159.59625pt>
+File: images/substructure.png Graphic file (type png)
+<use images/substructure.png>
+Package pdftex.def Info: images/substructure.png  used on input line 120.
+(pdftex.def)             Requested size: 170.03407pt x 111.7166pt.
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+<images/register.png, id=10, 865.2325pt x 646.415pt>
+File: images/register.png Graphic file (type png)
+<use images/register.png>
+Package pdftex.def Info: images/register.png  used on input line 133.
+(pdftex.def)             Requested size: 173.04343pt x 129.2807pt.
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+<images/gap1.png, id=11, 189.70876pt x 191.71625pt>
+File: images/gap1.png Graphic file (type png)
+<use images/gap1.png>
+Package pdftex.def Info: images/gap1.png  used on input line 143.
+(pdftex.def)             Requested size: 151.7672pt x 153.3732pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-<images/pipeline.jpeg, id=9, 4274.97125pt x 3507.1025pt>
+<images/pipeline.jpeg, id=12, 4274.97125pt x 3507.1025pt>
 File: images/pipeline.jpeg Graphic file (type jpg)
 <use images/pipeline.jpeg>
-Package pdftex.def Info: images/pipeline.jpeg  used on input line 140.
-(pdftex.def)             Requested size: 299.27856pt x 245.52226pt.
+Package pdftex.def Info: images/pipeline.jpeg  used on input line 167.
+(pdftex.def)             Requested size: 342.00468pt x 280.57393pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+<images/qr.png, id=13, 3011.25pt x 3903.58376pt>
+File: images/qr.png Graphic file (type png)
+<use images/qr.png>
+Package pdftex.def Info: images/qr.png  used on input line 210.
+(pdftex.def)             Requested size: 42.18018pt x 54.67958pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 [2
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/igem.png> <./images/pipeline.jpeg>] (./poster.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/igem.png> <./images/substructure.png> <./images/register.png> <./images/gap1.png> <./images/pipeline.jpeg> <./images/qr.png>] (./poster.aux) ) 
 Here is how much of TeX's memory you used:
- 15379 strings out of 478287
- 322802 string characters out of 5849289
- 686110 words of memory out of 5000000
- 33277 multiletter control sequences out of 15000+600000
- 501334 words of font info for 46 fonts, out of 8000000 for 9000
+ 15747 strings out of 478287
+ 330959 string characters out of 5849289
+ 706921 words of memory out of 5000000
+ 33641 multiletter control sequences out of 15000+600000
+ 507331 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,10n,118p,452b,1018s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on poster.pdf (1 page, 1007419 bytes).
+ 115i,10n,118p,452b,1016s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on poster.pdf (1 page, 1625233 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 29 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 

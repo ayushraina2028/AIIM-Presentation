@@ -104,12 +104,41 @@ iGem Software Team, Indian Institute of Science, Banglore.\\
 
 }
 
+
+
 % this states the box starts at column 0 (edge of page), directly below the box labelled subtopic1 for a span of 1 (column wide)
 
-\headerbox{Sub Topic 2}{name=subtopic2,column=0,below=subtopic1,span=1}{
-Enter content on subtopic
+\headerbox{4.1 Substrucutre Construction}{name=subtopic2,column=0,below=subtopic1,span=1}{
+    {   
+        \vspace{0.5cm}
+        \hspace{0.5cm}
+        \centering
+    	\includegraphics[scale=.7]{images/substructure.png}
+    }
 
-\vspace{5cm} %remove this, only added for spacing
+\vspace{0.9cm}
+}
+
+\headerbox{4.2 One-Shot Registration}{name=subtopic2,column=1,below=subtopic1,span=1}{
+    \vspace{0.4cm}
+    {   
+        
+        \hspace{0.7cm}
+        \centering
+    	\includegraphics[scale=.2]{images/register.png}
+    }
+
+\vspace{0.4cm}
+
+}
+
+\headerbox{4.3 Gap Filling}{name=subtopic2gap,column=2,below=subtopic1,span=1}{
+    {   
+        \hspace{0.5cm}
+        \centering
+    	\includegraphics[scale=.8]{images/gap1.png}
+    }
+
 
 }
 
@@ -127,31 +156,59 @@ Enter content on subtopic
 }
 
 
-\headerbox{Graphical Overview}{name=topicoverview,column=0,span=2,below=subtopic2}{
-{
+\headerbox{5. Graphical Overview of proposed method}{name=topicoverview,column=0,span=2,below=subtopic2}{
+
     {
-        \hspace{2cm}
+        \hspace{1.5cm}
         \centering
-    	\includegraphics[scale=.07]{images/pipeline.jpeg}
+    	\includegraphics[scale=.08]{images/pipeline.jpeg}
     }
+    \vspace{0.15cm}
+}
+
+\headerbox{Our Mentors}{name=mentors,column=2,below=subtopic2gap,span=1}{
+    \begin{enumerate}
+        \item {\Large Professor Debnath Pal (CDS Dept)}
+        \item {\Large Dr. Shruthi (NCBS)}
+    \end{enumerate}
     
+    \vspace{0.45cm}
 }
 
-}
-
-\headerbox{Conclusions and Future Work}{name=conclusion,column=0,below=topicoverview,span=2,above=bottom}{
-Final conclusions
-
-\vspace{10cm} %remove this, only added for spacing
-
-}
-
-\headerbox{QR Code for Recording}{name=conclusion,column=2,below=topicoverview,span=1,above=bottom}{
-QR Code Goes here
-
-\vspace{10cm} %remove this, only added for spacing
+\headerbox{Summary}{name=conclusion,column=0,below=topicoverview,span=2,above=bottom}{
+\begin{enumerate}
+    \item {\large Extract the distance restraints data from various experimental data.}
+    \item {\large Use principle of DREAM algorithm to model the structure of complex.}
+    \item {\large Generate the PDB file.}
+\end{enumerate}
 
 }
+
+\headerbox{6. Human Practices}{name=hp,column=2,below=mentors,span=1}{
+\subsubsection*{3R's}
+\begin{enumerate}
+    \item {\large Replacement}
+    \item {\large Reduction}
+    \item {\large Refinement}
+\end{enumerate}
+
+\subsection*{Our Stakeholders}
+\begin{enumerate}
+    \item {\large Professors}
+    \item {\large Research Students}
+    \item {\large Protein Modelling Companies}
+\end{enumerate}
+\vspace{0.05cm}
+}
+
+\headerbox{Links and Resources}{name=last,column=2,below=hp,span=1} {
+    {
+        \hspace{2.6cm}
+        \centering
+    	\includegraphics[scale=.014]{images/qr.png}
+    }
+}
+
 \end{poster}
 
 \end{document}
