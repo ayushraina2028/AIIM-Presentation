@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1722028243 "/home/ayushraina/Desktop/Report/AIIM/Poster/poster.tex" "poster.pdf" "poster" 1722028244
+["pdflatex"] 1722029125 "/home/ayushraina/Desktop/Report/AIIM/Poster/poster.tex" "poster.pdf" "poster" 1722029126
   "/etc/texmf/web2c/texmf.cnf" 1705931961 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/ayushraina/Desktop/Report/AIIM/Poster/poster.tex" 1722028243 6900 ade6329e7cfb09b2bc1092c4ec8f7e52 ""
+  "/home/ayushraina/Desktop/Report/AIIM/Poster/poster.tex" 1722029125 6934 95b713726d64dac8895362855647172b ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -146,8 +146,8 @@
   "images/qr.png" 1722028136 268415 2429326d8a06d62e79dd8c8cc0b89718 ""
   "images/register.png" 1721766904 258604 70f1e1b8c5440a3e9a7aadc184902552 ""
   "images/substructure.png" 1722025130 39277 657ee5821015edf36f371933a4ba7407 ""
-  "poster.aux" 1722028244 73 b85a5d78aade50a333fdfa6536fe097a "pdflatex"
-  "poster.tex" 1722028243 6900 ade6329e7cfb09b2bc1092c4ec8f7e52 ""
+  "poster.aux" 1722029126 73 b85a5d78aade50a333fdfa6536fe097a "pdflatex"
+  "poster.tex" 1722029125 6934 95b713726d64dac8895362855647172b ""
   (generated)
   "poster.aux"
   "poster.log"
