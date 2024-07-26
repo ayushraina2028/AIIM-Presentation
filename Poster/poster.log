@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  27 JUL 2024 00:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  27 JUL 2024 01:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/ayushraina/Desktop/Report/Poster/poster.tex
-(/home/ayushraina/Desktop/Report/Poster/poster.tex
+**/home/ayushraina/Desktop/Report/AIIM/Poster/poster.tex
+(/home/ayushraina/Desktop/Report/AIIM/Poster/poster.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (./baposter.cls
 Document Class: baposter 2011/09/15 v2.0 baposter class
@@ -514,48 +514,38 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-<TUDublin.jpg, id=9, 176.91093pt x 97.86563pt>
-File: TUDublin.jpg Graphic file (type jpg)
-<use TUDublin.jpg>
-Package pdftex.def Info: TUDublin.jpg  used on input line 137.
-(pdftex.def)             Requested size: 98.06972pt x 54.25183pt.
-<DevOps.png, id=10, 221.32687pt x 120.45pt>
-File: DevOps.png Graphic file (type png)
-<use DevOps.png>
-Package pdftex.def Info: DevOps.png  used on input line 137.
-(pdftex.def)             Requested size: 98.06972pt x 53.37125pt.
-File: DevOps.png Graphic file (type png)
-<use DevOps.png>
-Package pdftex.def Info: DevOps.png  used on input line 137.
-(pdftex.def)             Requested size: 98.06972pt x 53.37125pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--137
-[][]
+Underfull \hbox (badness 1742) in paragraph at lines 92--92
+[]\T1/lmr/m/n/14.4 Uses Markov Chain Monte
  []
 
-File: TUDublin.jpg Graphic file (type jpg)
-<use TUDublin.jpg>
-Package pdftex.def Info: TUDublin.jpg  used on input line 137.
-(pdftex.def)             Requested size: 98.06972pt x 54.25183pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-<ThreeYrGraph.jpg, id=11, 447.92343pt x 305.64188pt>
-File: ThreeYrGraph.jpg Graphic file (type jpg)
-<use ThreeYrGraph.jpg>
-Package pdftex.def Info: ThreeYrGraph.jpg  used on input line 154.
-(pdftex.def)             Requested size: 313.54427pt x 213.94785pt.
-<Ireland_Latest.PNG, id=12, 226.59656pt x 274.02374pt>
-File: Ireland_Latest.PNG Graphic file (type png)
-<use Ireland_Latest.PNG>
-Package pdftex.def Info: Ireland_Latest.PNG  used on input line 154.
-(pdftex.def)             Requested size: 181.27748pt x 219.21928pt.
+
+Underfull \hbox (badness 1259) in paragraph at lines 105--105
+[]\T1/lmr/m/n/14.4 We pro-pose to re-place the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+\T1/lmr/m/n/14.4 MCMC sam-pling with a
+ []
+
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+<images/pipeline.jpeg, id=9, 4274.97125pt x 3507.1025pt>
+File: images/pipeline.jpeg Graphic file (type jpg)
+<use images/pipeline.jpeg>
+Package pdftex.def Info: images/pipeline.jpeg  used on input line 140.
+(pdftex.def)             Requested size: 299.27856pt x 245.52226pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -567,20 +557,20 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 [2
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/igem.png> <./TUDublin.jpg> <./DevOps.png> <./ThreeYrGraph.jpg> <./Ireland_Latest.PNG>] (./poster.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/igem.png> <./images/pipeline.jpeg>] (./poster.aux) ) 
 Here is how much of TeX's memory you used:
- 15319 strings out of 478287
- 321091 string characters out of 5849289
- 681547 words of memory out of 5000000
- 33213 multiletter control sequences out of 15000+600000
+ 15379 strings out of 478287
+ 322802 string characters out of 5849289
+ 686110 words of memory out of 5000000
+ 33277 multiletter control sequences out of 15000+600000
  501334 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,10n,118p,447b,1018s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on poster.pdf (1 page, 264840 bytes).
+ 115i,10n,118p,452b,1018s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on poster.pdf (1 page, 1007419 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 38 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 44 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 29 words of extra memory for PDF output out of 10000 (max. 10000000)
 

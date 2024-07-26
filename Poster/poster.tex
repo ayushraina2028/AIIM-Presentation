@@ -72,20 +72,35 @@ iGem Software Team, Indian Institute of Science, Banglore.\\
 
 
 % this states the box starts at column 0 (edge of page), row 0 (top of page) for a span of 3 (columns wide)
-\headerbox{Introduction}{name=introduction,column=0,row=0, span=3}{
-Place an over view of your research - use your executive summary or abstract as a pointer of what information to place in here.
+\headerbox{1. Integrative Modelling Platform (IMP)}{name=introduction,column=0,row=0, span=2}{
+\begin{enumerate}
+    \item {\Large The IMP provides a computational approach designed to model the structure of macromolecular assemblies.}
+    \item  {\Large It models large macromolecular complexes by integrating data from experiments, statistical analyses, physical principles, and prior models.}
+\end{enumerate}
 
-\vspace{2cm} %remove this, only added for spacing
+ %remove this, only added for spacing
 
 }
 
+\headerbox{2. Drawbacks of IMP}{name=drawbacks,column=2,row=0, span=1}{
+    \begin{enumerate}
+        \item {\Large Computationally expensive.} 
+        \item {\Large Uses Markov Chain Monte Carlo (MCMC) sampling.}
+    \end{enumerate}
+
+    \vspace{0.45cm}
+}
+
 % this states the box starts at column 0 (edge of page), directly below the box labelled introduction for a span of 1 (column wide)
-\headerbox{Sub Topic 1}{name=subtopic1,column=0,below=introduction,span=1}{
+\headerbox{3. Proposed Method}{name=subtopic1,column=0,below=introduction,span=1}{
 
 %\vspace{0.15cm}
-The following is how you might add in special characters for example: ($n \sim$24-30 students).
+\begin{enumerate}
+    \item {\Large We propose to replace the MCMC sampling with a bottom-up approach.}
+    \item {\Large We will use DREAM algorithm to replace the MCMC sampling.}
+\end{enumerate}
 
-\vspace{4.2cm} %remove this, only added for spacing
+\vspace{0.2cm} %remove this, only added for spacing
 
 }
 
@@ -98,57 +113,28 @@ Enter content on subtopic
 
 }
 
-\headerbox{Sub Topic 3}{name=subtopic3,column=1,below=introduction,span=2}{
-\vspace{0.3cm}
-
-% inserts an image inside the box, 5 rows high
-\begin{wrapfigure}[5]{r}{0.25\textwidth}
-\includegraphics[width=.9\linewidth]{TUDublin.jpg} 
-\end{wrapfigure}
-
-\subsubsection*{1. Introduction to sub section:}
-
-Subsection description
-
-\vspace{2.3cm} %remove this, only added for spacing
+\headerbox{4. Distance Restraints and Energy Assisted Modelling (DREAM)}{name=subtopic3,column=1,below=introduction,span=2}{
+{\Large This algorithm takes distance restraints data and models the structure of proteins which includes 3 steps:}
 
 
-\begin{wrapfigure}[8]{r}{0.25\textwidth}
-\includegraphics[width=.9\linewidth]{DevOps.png} 
-\includegraphics[width=.9\linewidth]{DevOps.png} 
-\end{wrapfigure}
+\begin{enumerate}
+    \item {\Large Constructing the substrucutres.}
+    \item {\Large One shot registration of all the substrucutres.}
+    \item {\Large Gap filling using hybrid approached.}
+\end{enumerate}
 
-\vspace{0.3cm}
-\subsubsection*{2. Another sub section:}
-
-Subsection description
-
-\vspace{2.3cm} %remove this, only added for spacing
-
-\begin{wrapfigure}[5]{r}{0.25\textwidth}
-\includegraphics[width=.9\linewidth]{TUDublin.jpg} 
-\end{wrapfigure}
-
-\vspace{0.35cm}
-\subsubsection*{3. Another sub section:}
-Final Subsection description
-
-\vspace{2cm} %remove this, only added for spacing
+\vspace{0.01cm}
 }
 
 
-\headerbox{Topic Overview}{name=topicoverview,column=0,span=3,below=subtopic2}{
+\headerbox{Graphical Overview}{name=topicoverview,column=0,span=2,below=subtopic2}{
 {
     {
-        \hspace{1cm}
+        \hspace{2cm}
         \centering
-    	\includegraphics[scale=.7]{ThreeYrGraph.jpg}
+    	\includegraphics[scale=.07]{images/pipeline.jpeg}
     }
-    {
-        \hspace{1.5cm}
-        \centering
-    	\includegraphics[scale=.8]{Ireland_Latest.PNG}
-    }
+    
 }
 
 }
