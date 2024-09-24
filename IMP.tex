@@ -64,3 +64,64 @@
     \pause
     2. For registering n proteins, only 1 hypothetical fragment is needed. So registration of $n+1$ proteins is done. \\
 \end{frame}
+
+\begin{frame}{Implementation}
+    Consider the case of "1dfj" which has E and I chain. We have crosslink data available. Here is the true structure:
+
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\textwidth]{images/1dfj_1.png}
+        \caption{True structure of 1dfj}
+        \label{fig:my_label}
+    \end{figure}
+    
+\end{frame}
+
+\begin{frame}{Structure obtained using our method}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\textwidth]{images/1dfj_2.png}
+        \caption{Structure obtained using our method}
+        \label{fig:my_label}
+    \end{figure}
+
+    \pause
+
+    There are 2 problems:
+    \begin{enumerate}
+        \item Clashes between proteins
+        \item Flipped Ramachandran angles
+    \end{enumerate}
+\end{frame}
+
+\begin{frame}{Possible Fix for Clashes}
+    Take random subset of crosslink data instead of all crosslink data. Here is the result for random subset of 6 crosslinks out of 12:
+
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\textwidth]{images/1dfj_3.png}
+    \end{figure}
+    
+    Again there is flipped Ramachandran angles, but clashes have reduced.
+\end{frame}
+
+\begin{frame}{Next Steps}
+    1. Fix the flipped Ramachandran angles \\
+    2. If this does not work, then translate to remove the clash keeping the orientation same \\
+    3. Energy minimization \\
+
+    \bigskip
+
+    In this way we are taking experimental data into consideration instead of random sampling of initial configurations.
+\end{frame}
+
+\begin{frame}{Energy Minimization}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\textwidth]{images/1dfj_4.png}
+        \caption{Translating with same orientation}
+        \label{fig:my_label}
+    \end{figure}
+
+    Now we run Energy minimization to get the final structure, which will satisy the given experimental (crosslink) data.
+\end{frame}

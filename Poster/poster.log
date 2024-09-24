@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  27 JUL 2024 02:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  27 JUL 2024 02:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -478,44 +478,44 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 <images/igem.png, id=7, 301.125pt x 190.7125pt>
 File: images/igem.png Graphic file (type png)
 <use images/igem.png>
-Package pdftex.def Info: images/igem.png  used on input line 71.
+Package pdftex.def Info: images/igem.png  used on input line 72.
 (pdftex.def)             Requested size: 168.45314pt x 106.69058pt.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 71.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 72.
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 71.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 72.
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 71.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 72.
  (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 71.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 72.
  (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 71.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 72.
  (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 71.
+(Font)              <10> on input line 72.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 71.
+(Font)              <7> on input line 72.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 71.
+(Font)              <5> on input line 72.
 
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 1742) in paragraph at lines 92--92
+Underfull \hbox (badness 1742) in paragraph at lines 93--93
 []\T1/lmr/m/n/14.4 Uses Markov Chain Monte
  []
 
@@ -523,12 +523,12 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 1259) in paragraph at lines 105--105
+Underfull \hbox (badness 1259) in paragraph at lines 106--106
 []\T1/lmr/m/n/14.4 We pro-pose to re-place the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--105
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
 \T1/lmr/m/n/14.4 MCMC sam-pling with a
  []
 
@@ -538,7 +538,7 @@ Missing character: There is no ; in font nullfont!
 <images/substructure.png, id=9, 242.9075pt x 159.59625pt>
 File: images/substructure.png Graphic file (type png)
 <use images/substructure.png>
-Package pdftex.def Info: images/substructure.png  used on input line 120.
+Package pdftex.def Info: images/substructure.png  used on input line 121.
 (pdftex.def)             Requested size: 170.03407pt x 111.7166pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -546,7 +546,7 @@ Missing character: There is no ; in font nullfont!
 <images/register.png, id=10, 865.2325pt x 646.415pt>
 File: images/register.png Graphic file (type png)
 <use images/register.png>
-Package pdftex.def Info: images/register.png  used on input line 133.
+Package pdftex.def Info: images/register.png  used on input line 134.
 (pdftex.def)             Requested size: 173.04343pt x 129.2807pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -554,7 +554,7 @@ Missing character: There is no ; in font nullfont!
 <images/gap1.png, id=11, 189.70876pt x 191.71625pt>
 File: images/gap1.png Graphic file (type png)
 <use images/gap1.png>
-Package pdftex.def Info: images/gap1.png  used on input line 143.
+Package pdftex.def Info: images/gap1.png  used on input line 144.
 (pdftex.def)             Requested size: 151.7672pt x 153.3732pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -565,7 +565,7 @@ Missing character: There is no ; in font nullfont!
 <images/pipeline.jpeg, id=12, 4274.97125pt x 3507.1025pt>
 File: images/pipeline.jpeg Graphic file (type jpg)
 <use images/pipeline.jpeg>
-Package pdftex.def Info: images/pipeline.jpeg  used on input line 167.
+Package pdftex.def Info: images/pipeline.jpeg  used on input line 168.
 (pdftex.def)             Requested size: 342.00468pt x 280.57393pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -582,7 +582,7 @@ Missing character: There is no ; in font nullfont!
 <images/qr.png, id=13, 3011.25pt x 3903.58376pt>
 File: images/qr.png Graphic file (type png)
 <use images/qr.png>
-Package pdftex.def Info: images/qr.png  used on input line 211.
+Package pdftex.def Info: images/qr.png  used on input line 212.
 (pdftex.def)             Requested size: 45.1668pt x 58.55122pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
